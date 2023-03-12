@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hola! Soy Ricardo Gómez. 
 
-<!--
-**ragomezm/ragomezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Actualmente estoy estudiando para convertirme en un **Full-Stack** JavaScript Developer. Con la ayuda de **Undefined academy** liderado por el profesor **Guillermo Rodas**. 🌱
 
-Here are some ideas to get you started:
+-------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 **Comandos de la terminal aprendidos** 
+
+| Comandos |                              Descipción                                |
+| -------- | ---------------------------------------------------------------------- |
+|    cd    |   Sirve para cambiar de directorios                                    |
+|    ls    |   Muestra el contenido de la carpeta o folder en que te encuentras     |
+|   mkdir  |   Crea un directorio                                                   |
+|   pwd    |   Muestra la ruta en que te encuentras                                 |
+|   echo   |   Imprime un texto en pantalla                                         |
+|   sudo   |   Sirve para elevar privilegios temporalmente                          |
+
+-------------------------------------------------------------------------------------
+
+### 💡 **Comandos alias útiles**
+
+
+|   Alias  |   Descipción   |
+| -------- | -------------- |
+|    cl    |    clear       |
+|    gh    | history I grep |
